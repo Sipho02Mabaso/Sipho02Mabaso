@@ -1,16 +1,166 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:3b82f6&height=180&section=header&text=Sipho%20Mabaso&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ICT%20Graduate%20%7C%20Software%20Development%20%7C%20Cloud&descAlignY=58&descSize=16" width="100%"/>
+</div>
 
-<!--
-**Sipho02Mabaso/Sipho02Mabaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Hello, I'm Sipho
+
+**ICT Graduate | Junior Software Developer**
+
+I'm an Information & Communications Technology graduate interested in building practical software solutions and continuously developing my skills.
+
+</div>
+
+---
+
+##  About Me
+
+*  Advanced Diploma in **Information & Communications Technology**
+*  Interested in **software development**
+*  I enjoy building practical applications that solve real-world problems
+*  Focused on strengthening my software engineering fundamentals and growing as a junior developer
+*  Always learning, experimenting, and improving
+
+---
+
+##  Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</p>
+
+### Services
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+### Tools & Development
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/REST_API-1e40af?style=for-the-badge&logo=swagger&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+</p>
+
+---
+
+###  MunicipalityApp
+
+A role-based municipal service application designed to allow citizens to report waste-related issues while supporting municipal workers and administrators in managing reports.
+
+**Technologies:** ASP.NET Core MVC · C# · Entity Framework Core · SQL Server · Bootstrap · JavaScript
+
+**Key Features**
+
+* Citizen waste-reporting functionality
+* Role-based access for Citizens, Workers, Admins, and Maintainers
+* Municipal issue management
+* Database-driven application
+* Administrative dashboards and reporting
+* Worker workflow for managing reported issues
+
+🔗 **Repository:** [MunicipalityApp](https://github.com/Sipho02Mabaso/MunicipalityApp)
+
+---
+
+##  Featured Projects
+
+### 🏫 DUT Face Attendance System
+
+A web-based facial recognition attendance system designed to help lecturers manage student attendance during academic sessions.
+
+**Technologies:** Python · Flask · OpenCV · Firebase · HTML · CSS · JavaScript
+
+**Key Features**
+
+* Lecturer-controlled attendance sessions
+* Facial recognition for enrolled students
+* Module-based student attendance
+* Automated attendance recording
+* Web-based interface for managing sessions
+
+🔗 **Repository:** [dut-face-attendance-system](https://github.com/Sipho02Mabaso/dut-face-attandance-system/tree/master)
+
+---
+
+##  Certifications 
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Azure%20Fundamentals-AZ--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Azure%20Administrator-AZ--104-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Azure%20DevOps-AZ--400-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+
+</div>
+
+
+---
+
+##  What I'm Working Towards
+
+I'm working towards becoming a **well-rounded junior software developer** with a strong foundation in:
+
+* Backend development
+* Full-stack web development
+* Database design and management
+* RESTful API development
+* Cloud computing
+* Application deployment
+* Software engineering principles
+
+I'm particularly interested in opportunities where I can **learn from experienced developers, contribute to real projects, and continue growing professionally**.
+
+---
+
+##  Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Sipho02Mabaso">
+  <img src="https://img.shields.io/badge/GitHub-Sipho02Mabaso-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💙 Always Learning • Building • Improving
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:3b82f6&height=100&section=footer"/>
+</div>
