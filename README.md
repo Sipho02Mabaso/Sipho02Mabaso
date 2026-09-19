@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:3b82f6&height=180&section=header&text=Sipho%20Mabaso&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ICT%20Graduate%20%7C%20Software%20Development%20%7C%20Cloud&descAlignY=58&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:3b82f6&height=180&section=header&text=Sipho%20Mabaso&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAli[...]
 </div>
 
 <br>
@@ -94,21 +94,26 @@ A role-based municipal service application designed to allow citizens to report 
 
 ##  Featured Projects
 
-### 🏫 DUT Face Attendance System
+### Library Management System
 
-A web-based facial recognition attendance system designed to help lecturers manage student attendance during academic sessions.
+A role-based library management platform that allows users to browse and borrow books, reserve rooms, attend library sessions, and manage their accounts while giving librarians and administrators tools to manage library operations.
 
-**Technologies:** Python · Flask · OpenCV · Firebase · HTML · CSS · JavaScript
+**Technologies:** ASP.NET Core Web API · C# · Entity Framework Core · SQL Server · JWT Authentication · BCrypt · Swagger · HTML · CSS · JavaScript
 
 **Key Features**
 
-* Lecturer-controlled attendance sessions
-* Facial recognition for enrolled students
-* Module-based student attendance
-* Automated attendance recording
-* Web-based interface for managing sessions
-
-🔗 **Repository:** [dut-face-attendance-system](https://github.com/Sipho02Mabaso/dut-face-attandance-system/tree/master)
+* Role-based access for Users, Librarians, and Administrators
+* Email-based authentication with secure password hashing
+* Book browsing, genre filtering, borrowing, returns, and saved books
+* Borrowing history with due dates, statuses, and overdue fines
+* Room availability and hourly room bookings
+* Session creation, management, and user bookings
+* Librarian CRUD management for books, sessions, and rooms
+* Administrator dashboards with system statistics
+* User creation, account blocking, and account management
+* Activity logs and downloadable reports
+* Responsive role-specific interfaces for users, librarians, and administrators
+* Database-driven architecture using Entity Framework Core and SQL Server
 
 ---
 
