@@ -115,7 +115,7 @@ A role-based library management platform that allows users to browse and borrow 
 * Responsive role-specific interfaces for users, librarians, and administrators
 * Database-driven architecture using Entity Framework Core and SQL Server
 
-🔗 **Repository:** [MunicipalityApp](https://github.com/Sipho02Mabaso/MunicipalityApp)
+🔗 **Repository:** [Library Management System](https://github.com/Sipho02Mabaso/Library-Management-System)
 
 ---
 
