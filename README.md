@@ -77,7 +77,7 @@ I'm an Information & Communications Technology graduate interested in building p
 
 A role-based municipal service application designed to allow citizens to report waste-related issues while supporting municipal workers and administrators in managing reports.
 
-**Technologies:** ASP.NET Core MVC · C# · Entity Framework Core · SQL Server · Bootstrap · JavaScript
+**Technologies:** ASP.NET Core MVC · C# · Entity Framework Core · SQL Server · JavaScript
 
 **Key Features**
 
@@ -98,7 +98,7 @@ A role-based municipal service application designed to allow citizens to report 
 
 A role-based library management platform that allows users to browse and borrow books, reserve rooms, attend library sessions, and manage their accounts while giving librarians and administrators tools to manage library operations.
 
-**Technologies:** ASP.NET Core Web API · C# · Entity Framework Core · SQL Server · JWT Authentication · BCrypt · Swagger · HTML · CSS · JavaScript
+**Technologies:** ASP.NET Core Web API · C# · Entity Framework Core · SQL Server · JWT Authentication · BCrypt · HTML · CSS · JavaScript
 
 **Key Features**
 
@@ -114,6 +114,8 @@ A role-based library management platform that allows users to browse and borrow 
 * Activity logs and downloadable reports
 * Responsive role-specific interfaces for users, librarians, and administrators
 * Database-driven architecture using Entity Framework Core and SQL Server
+
+🔗 **Repository:** [MunicipalityApp](https://github.com/Sipho02Mabaso/MunicipalityApp)
 
 ---
 
