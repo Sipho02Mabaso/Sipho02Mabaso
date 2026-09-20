@@ -1,14 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:3b82f6&height=180&section=header&text=Sipho%20Mabaso&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAli[...]
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Hello%2C+I%27m+Sipho++&textBg=false&fontColor=black&fontSize=30&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&desc=ICT+Graduate+%7C+Junior+Software+Developer&descSize=25&descAlign=50&descAlignY=60"/>
 </div>
 
 <br>
 
 <div align="center">
-
-###  Hello, I'm Sipho
-
-**ICT Graduate | Junior Software Developer**
 
 I'm an Information & Communications Technology graduate interested in building practical software solutions and continuously developing my skills.</br>
 **Portfolio:** https://sipho-mabaso-portfolio.onrender.com/
